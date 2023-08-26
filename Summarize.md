@@ -45,3 +45,11 @@ It involves continuous monitoring, threat detection, incident response, and miti
 
 ## Reference https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
 
+
+# Install Debian
+
+I have teied many times in my laptop, but it's always shows Error caused by signal 9. I have followed all correct steps on the instrctions and also searched for the solutions but non of them works. As a Mac user I am going to try QEMU that tearch has recommand. 
+
+<img width="975" alt="Screenshot 2023-08-26 at 18 12 00" src="https://github.com/bga651/Information-Security/assets/114089466/d6ec15fa-ea53-460e-bc76-922d2c1a356b">
+
+
