@@ -25,7 +25,7 @@ Jason reflects on how he may have prevented a potential breach similar to Ashley
 ## Reference https://darknetdiaries.com/episode/130/
 
 
-# h1 Summarise Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
+# h1 Summarize Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 
 Intelligence-driven computer network defense is essential due to advanced persistent threats (APTs). Traditional vulnerability-focused approaches are insufficient against APTs, necessitating a deep understanding of the threat's intent, capabilities, patterns, and doctrine. The intrusion kill chain offers a structured analysis of intrusions, aiding in identifying indicators and guiding defensive actions. This approach prioritizes addressing capability gaps and evaluating defender effectiveness.
 
