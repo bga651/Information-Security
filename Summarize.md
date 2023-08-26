@@ -1,4 +1,4 @@
-h1- Summarize the episode of Jason's Pen Test on 
+# h1 - Summarize the episode of Jason's Pen Test on Darknet Diaries Podcast
 
 For the Darkness Diaries Boardcast I chose Episode 130: Jason’s Pen Test, As Jason is a penetration tester he is sharing many of stories while at work that he breaks into buildings and computers, and talks about the time he discovered a major security flaw in a popular mobile banking app. The topic is interesting and banking app are almost everyone’s daily based tools. I really wanted to know about the information behind this. Besides,  I found it’s always easier to start a study or something new by listening interesting stories. 
 
@@ -21,3 +21,5 @@ Jason also discusses his penetration testing experience on that website. He expl
 Additionally, Jason explores further security flaws on the website. He details how he found cross-site scripting (XSS) vulnerabilities and a way to access paid streams without payment. The website also facilitated user interactions and allowed connections between users, which drew parallels to the Ashley Madison scandal involving a data breach of a website for extramarital affairs.
 
 Jason reflects on how he may have prevented a potential breach similar to Ashley Madison's by identifying and addressing security problems on the site he tested. The conversation touches on the perspective of young Jason, engaging in less ethical hacking activities, and how his current experience as a professional penetration tester gives him a greater appreciation for the significance and impact of his work.
+
+## Reference https://darknetdiaries.com/episode/130/
