@@ -23,3 +23,25 @@ Additionally, Jason explores further security flaws on the website. He details h
 Jason reflects on how he may have prevented a potential breach similar to Ashley Madison's by identifying and addressing security problems on the site he tested. The conversation touches on the perspective of young Jason, engaging in less ethical hacking activities, and how his current experience as a professional penetration tester gives him a greater appreciation for the significance and impact of his work.
 
 ## Reference https://darknetdiaries.com/episode/130/
+
+
+# h1 Summarise Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
+
+Intelligence-driven computer network defense is essential due to advanced persistent threats (APTs). Traditional vulnerability-focused approaches are insufficient against APTs, necessitating a deep understanding of the threat's intent, capabilities, patterns, and doctrine. The intrusion kill chain offers a structured analysis of intrusions, aiding in identifying indicators and guiding defensive actions. This approach prioritizes addressing capability gaps and evaluating defender effectiveness.
+
+By incorporating threat awareness into resilience building against APTs, defenders can turn adversary persistence into a liability, reducing their success chances. The kill chain highlights an asymmetry where repeated aggressor components become liabilities. Analyzing repetition's nature for specific adversaries, whether for convenience or other reasons, involves assessing costs. Balancing intruders' cost-benefit ratio is crucial, indicating information superiority. Models of information superiority could inform attack and exploitation doctrine development.
+
+The paper introduces an intrusion kill chain model in computer espionage, acknowledging broader implications beyond this context. This research intersects with disciplines like IED countermeasures, emphasizing the significance of intelligence-driven defense against evolving cyber threats.
+
+Intelligence-Driven Computer Network Defense, informed by analysis of adversary campaigns and intrusion kill chains, is a proactive cybersecurity approach that focuses on understanding and countering advanced cyber threats. This strategy combines threat intelligence, analysis of historical attack patterns, and a deep comprehension of an attacker's tactics, techniques, and procedures (TTPs) to enhance the security posture of computer networks.
+
+Intelligence-driven signifies the emphasis on collecting and analyzing threat intelligence to gain insights into the methods and motivations of cyber adversaries. By studying their previous campaigns, tools, infrastructure, and behaviors, defenders can anticipate potential attack vectors and vulnerabilities that attackers might exploit.
+
+The concept of  adversary campaigns  refers to the orchestrated series of attacks carried out by cybercriminals or threat actors. By comprehensively analyzing these campaigns, security teams can discern commonalities, trends, and evolving strategies employed by adversaries. This knowledge helps in creating more effective defensive measures and anticipating future attacks.
+
+Kill chains refer to the stages an attacker goes through during a cyber intrusion, from the initial reconnaissance to the final exfiltration of data. Analyzing these kill chains allows defenders to map out an attacker's path and identify potential points of disruption or prevention. It aids in recognizing early indicators of compromise and blocking attackers at various stages of their operation.
+
+It involves continuous monitoring, threat detection, incident response, and mitigation strategies that align with the insights gained from threat intelligence and analysis of adversary campaigns and intrusion kill chains. By proactively adapting defenses based on evolving threat landscapes, organizations can better anticipate and counter sophisticated cyber threats, reducing their risk exposure and enhancing their overall cybersecurity posture.
+
+## Reference https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+
