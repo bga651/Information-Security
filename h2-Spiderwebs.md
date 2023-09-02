@@ -1,6 +1,6 @@
-# h1 - Summarize
+#  Summarize
 
-# h2 Security Misconfiguration
+## Security Misconfiguration
 
 The article highlights the critical issue of security misconfiguration, which has become increasingly prevalent in software applications. In the latest edition, it moved up to the 5th position among the top security concerns. The analysis found that 90% of applications were tested for misconfigurations, with an average incidence rate of 4.%, resulting in over 208,000 instances of Common Weakness Enumeration (CWE) in this category. Notable CWEs in this context are CWE-16 Configuration and CWE-611 Improper Restriction of XML External Entity Reference.
 
@@ -26,9 +26,9 @@ The article also provides several example attack scenarios to illustrate the dan
 
 In conclusion, security misconfiguration poses a significant risk to modern software applications. To mitigate these risks, organizations must prioritize secure configuration practices, automate processes, and maintain up-to-date security measures to protect against potential attacks.
 
-## Reference https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
+Reference https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
 
-# h2 Vulnerable and Outdated Componentsicon
+## Vulnerable and Outdated Componentsicon
 
 The article discusses the critical issue of vulnerable and outdated software components, which ranked as the second most concerning threat in community surveys and data analysis. Unlike other categories, this one lacks Common Vulnerability and Exposures (CVEs) mapped to the included Common Weakness Enumerations (CWEs), necessitating a default exploits/impact weight of 5.0.
 
@@ -49,9 +49,9 @@ To prevent such vulnerabilities, organizations should:
 
 The article illustrates the significance of vulnerable components with attack scenarios, such as the Struts 2 remote code execution vulnerability, emphasizing the far-reaching impact of component flaws. Additionally, it warns of automated tools used by attackers to identify unpatched systems, underlining the importance of proactive patch management.
 
-## Reference https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+ Reference https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
 
-# h2 Injection
+## Injection
 
 The article discusses the critical security issue of injection attacks, which have moved to the third position in the top security concerns. It reveals that 94% of applications were tested for various forms of injection vulnerabilities, with a notable incidence rate. The most significant Common Weakness Enumerations (CWEs) associated with injection attacks include CWE-79 (Cross-site Scripting), CWE-89 (SQL Injection), and CWE-73 (External Control of File Name or Path).
 
@@ -65,5 +65,5 @@ The article emphasizes the importance of source code review and automated testin
 
 To illustrate the severity of injection attacks, the article presents attack scenarios. In these scenarios, attackers manipulate input data to exploit vulnerabilities in SQL queries, potentially gaining unauthorized access, modifying data, or invoking malicious procedures. These examples highlight the real-world risks associated with injection vulnerabilities and the critical need for effective prevention measures.
 
-## Reference https://owasp.org/Top10/A03_2021-Injection/
+Reference https://owasp.org/Top10/A03_2021-Injection/
 
