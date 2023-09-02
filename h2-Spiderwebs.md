@@ -70,3 +70,23 @@ Reference https://owasp.org/Top10/A03_2021-Injection/
 ## Install Webgoat
 
 Since my UTM of install Debian still have problem, I'm not able to practice this exercise yet.
+
+## Solve SQLZoo
+
+0-Select Basics
+<img width="1202" alt="Screenshot 2023-09-02 at 19 54 38" src="https://github.com/bga651/Information-Security/assets/114089466/680bde3a-3610-4c76-b94b-b4c84463ffa7">
+
+<img width="1193" alt="Screenshot 2023-09-02 at 19 56 51" src="https://github.com/bga651/Information-Security/assets/114089466/f4726bf3-f9a1-4116-b115-89c72c6fcda9">
+
+<img width="1204" alt="Screenshot 2023-09-02 at 19 58 10" src="https://github.com/bga651/Information-Security/assets/114089466/d4b1611b-0ec2-4033-a3bb-c409076b885b">
+
+2-Select from World(also did task 3 for remind)
+<img width="1183" alt="Screenshot 2023-09-02 at 20 00 03" src="https://github.com/bga651/Information-Security/assets/114089466/4e9e3bcf-de92-4e7f-b6dc-e761dfe04019">
+
+<img width="1221" alt="Screenshot 2023-09-02 at 20 01 18" src="https://github.com/bga651/Information-Security/assets/114089466/5f68e3fa-97fc-42f4-96e6-d9a850b4fb71">
+
+<img width="1217" alt="Screenshot 2023-09-02 at 20 04 25" src="https://github.com/bga651/Information-Security/assets/114089466/ed2bbf56-49c6-4b6c-b89a-af4396308603">
+
+## Solve Portswigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+
+
