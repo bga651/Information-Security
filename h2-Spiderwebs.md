@@ -67,3 +67,6 @@ To illustrate the severity of injection attacks, the article presents attack sce
 
 Reference https://owasp.org/Top10/A03_2021-Injection/
 
+## Install Webgoat
+
+Since my UTM of install Debian still have problem, I'm not able to practice this exercise yet.
