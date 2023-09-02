@@ -89,4 +89,23 @@ Since my UTM of install Debian still have problem, I'm not able to practice this
 
 ## Solve Portswigger Labs: Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
 
+The goal for this lab is to retrieval hidden data, and to see what information has been hidden. This lab contains a SQL injection vulnerability in the product category filter. When the user selects a category, the application carries out a SQL query like the following:
+SELECT * FROM products WHERE category = 'Gifts' AND released = 1
 
+To solve the lab, perform a SQL injection attack that causes the application to display one or more unreleased products. 
+
+From the main page we can see only 12 products avaiable on the web page. We can see form the URL of the "category" by clicking different category form the website. For example, we seclet Gifts, where category eaquals Gifts and release the Gifts.  If we inject one sibgle quote and we do see inthe category condition we close the string but it is incorrect we got an error. 
+
+<img width="1364" alt="Screenshot 2023-09-02 at 20 55 14" src="https://github.com/bga651/Information-Security/assets/114089466/09bcc21c-3917-4196-bb13-24ff0c65e6bc">
+
+<img width="1213" alt="Screenshot 2023-09-02 at 21 01 18" src="https://github.com/bga651/Information-Security/assets/114089466/72d717eb-ea52-4fc4-b85e-d49d04a379c1">
+
+<img width="1213" alt="Screenshot 2023-09-02 at 21 01 18" src="https://github.com/bga651/Information-Security/assets/114089466/1c32a6e8-3ff6-4e7f-83dd-10aae1a5d478">
+
+So we are closing the condition category with a single qutoe " ' " and then we say "+or+1=1" which is a condition we using at this point that always evaluate to TRUE. Then we are using "--" to ignore the rest of the query which won't generate the error. And now we cansee 20 products including hidden and non hidden, realse or non realse. 
+
+<img width="1262" alt="Screenshot 2023-09-02 at 21 02 00" src="https://github.com/bga651/Information-Security/assets/114089466/e2d524ae-30f0-474d-a1e9-93b535c53231">
+
+Lab Sovled! 
+
+## Reference https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
