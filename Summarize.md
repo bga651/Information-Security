@@ -50,6 +50,25 @@ It involves continuous monitoring, threat detection, incident response, and miti
 
 I have teied many times in my laptop, but it's always shows Error caused by signal 9. I have followed all correct steps on the instrctions and also searched for the solutions but non of them works. As a Mac user I am going to try QEMU that tearch has recommand. 
 
-<img width="975" alt="Screenshot 2023-08-26 at 18 12 00" src="https://github.com/bga651/Information-Security/assets/114089466/d6ec15fa-ea53-460e-bc76-922d2c1a356b">
+Tried UMI with ARM64
+
+<img width="975" alt="Screenshot 2023-08-26 at 18 12 00" src=<img width="902" alt="Screenshot 2023-08-28 at 10 05 30" src="https://github.com/bga651/Information-Security/assets/114089466/c590e104-9fd0-40d6-9cda-84e9b3a56135">
+<img width="900" alt="Screenshot 2023-08-28 at 10 05 44" src="https://github.com/bga651/Information-Security/assets/114089466/6814e255-395f-4a74-a531-8abfbe9155de">
+<img width="808" alt="Screenshot 2023-08-28 at 10 05 58" src="https://github.com/bga651/Information-Security/assets/114089466/c00fe6a2-65ca-49b4-a50f-af4ed841aed6">
+<img width="876" alt="Screenshot 2023-08-28 at 10 18 13" src="https://github.com/bga651/Information-Security/assets/114089466/50ef5bed-943e-48ee-956c-9e6f622c0b60">
+<img width="616" alt="Screenshot 2023-08-28 at 10 28 16" src="https://github.com/bga651/Information-Security/assets/114089466/c09bd2d8-ea89-4f06-89d6-8a4b1178b9be">
+<img width="885" alt="Screenshot 2023-08-28 at 11 53 23" src="https://github.com/bga651/Information-Security/assets/114089466/72d6fe3d-7817-494c-acbb-bb5ca5a996e4">
+<img width="757" alt="Screenshot 2023-08-28 at 11 53 43" src="https://github.com/bga651/Information-Security/assets/114089466/553d313f-0600-451a-a2b6-8174d5ad1f05">
+<img width="792" alt="Screenshot 2023-08-28 at 12 02 01" src="https://github.com/bga651/Information-Security/assets/114089466/fb7b2e15-607e-41c8-956f-3e32065bf766">
+<img width="1279" alt="Screenshot 2023-08-28 at 12 02 15" src="https://github.com/bga651/Information-Security/assets/114089466/fe117e33-eaf2-4735-aa13-1308fd39af45">
+<img width="1283" alt="Screenshot 2023-08-28 at 12 04 27" src="https://github.com/bga651/Information-Security/assets/114089466/85d3e9fb-77d0-4e9f-8042-0a0701d710a0">
+<img width="1269" alt="Screenshot 2023-08-28 at 12 09 23" src="https://github.com/bga651/Information-Security/assets/114089466/9e7a1dc7-437c-427e-b684-8fd6b2eed629">
+<img width="1286" alt="Screenshot 2023-08-28 at 12 09 36" src="https://github.com/bga651/Information-Security/assets/114089466/059da30b-cefb-4510-b8ec-dd8ff5e469a8">
+<img width="1275" alt="Screenshot 2023-09-02 at 18 47 17" src="https://github.com/bga651/Information-Security/assets/114089466/5d4b6ade-cfbe-42b4-82ed-8422bdec23db">
+<img width="1279" alt="Screenshot 2023-09-02 at 18 57 19" src="https://github.com/bga651/Information-Security/assets/114089466/b78e624f-2794-479a-8695-de3f079fadc6">
+<img width="782" alt="Screenshot 2023-09-02 at 18 59 35" src="https://github.com/bga651/Information-Security/assets/114089466/197e2397-efd0-486d-aa61-4e8f51ef6a9c">
+"https://github.com/bga651/Information-Security/assets/114089466/d6ec15fa-ea53-460e-bc76-922d2c1a356b">
+
+
 
 
