@@ -1,4 +1,4 @@
-# h1 - Summarize the episode of Jason's Pen Test on Darknet Diaries Podcast
+# Summarize the episode of Jason's Pen Test on Darknet Diaries Podcast
 
 For the Darkness Diaries Boardcast I chose Episode 130: Jason’s Pen Test, As Jason is a penetration tester he is sharing many of stories while at work that he breaks into buildings and computers, and talks about the time he discovered a major security flaw in a popular mobile banking app. The topic is interesting and banking app are almost everyone’s daily based tools. I really wanted to know about the information behind this. Besides,  I found it’s always easier to start a study or something new by listening interesting stories. 
 
@@ -25,7 +25,7 @@ Jason reflects on how he may have prevented a potential breach similar to Ashley
 ## Reference https://darknetdiaries.com/episode/130/
 
 
-# h1 Summarize Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
+# Summarize Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 
 Intelligence-driven computer network defense is essential due to advanced persistent threats (APTs). Traditional vulnerability-focused approaches are insufficient against APTs, necessitating a deep understanding of the threat's intent, capabilities, patterns, and doctrine. The intrusion kill chain offers a structured analysis of intrusions, aiding in identifying indicators and guiding defensive actions. This approach prioritizes addressing capability gaps and evaluating defender effectiveness.
 
@@ -50,7 +50,7 @@ It involves continuous monitoring, threat detection, incident response, and miti
 
 I have teied many times in my laptop, but it's always shows Error caused by signal 9. I have followed all correct steps on the instrctions and also searched for the solutions but non of them works. As a Mac user I am going to try QEMU that tearch has recommand. 
 
-Tried UMI with ARM64
+Tried UTM with ARM64
 
 <img width="975" alt="Screenshot 2023-08-26 at 18 12 00" src=<img width="902" alt="Screenshot 2023-08-28 at 10 05 30" src="https://github.com/bga651/Information-Security/assets/114089466/c590e104-9fd0-40d6-9cda-84e9b3a56135">
 <img width="900" alt="Screenshot 2023-08-28 at 10 05 44" src="https://github.com/bga651/Information-Security/assets/114089466/6814e255-395f-4a74-a531-8abfbe9155de">
