@@ -94,3 +94,119 @@ Write Threat Traceability Matrix: Document threats and their relationships with 
 Define Impact and Probability for Each Threat: Evaluate threats by assessing their potential impact and likelihood using risk management methodologies like DREAD or PASTA.
 
 By following these steps, organizations can establish a comprehensive threat model for their applications, enabling them to proactively identify and mitigate potential security threats and vulnerabilities.
+
+
+# Security Hygiene
+
+Maintaining good security hygiene is essential for everyone, whether you're an individual, a business owner, or an average computer user. While some security practices may require a bit more technical knowledge, many fundamental principles can be followed by anyone. Here's a list of basic security practices that everyone should follow, along with some practices that might be considered useful but could be slightly more advanced:
+
+Basic Security Practices for Everyone:
+
+1. Use Strong, Unique Passwords: Create complex passwords for your accounts and avoid using the same password for multiple accounts. Consider using a reputable password manager to store and generate secure passwords.
+
+2. Keep Software Updated: Regularly update your operating system, applications, and antivirus software. These updates often include security patches that protect against known vulnerabilities.
+
+3. Beware of Phishing: Be cautious of unsolicited emails, messages, or phone calls asking for personal information or urging immediate action. Verify the sender's identity before responding or clicking on any links.
+
+4. Secure Your Wi-Fi Network: Use strong encryption (WPA3) for your Wi-Fi network and change the default router login credentials. Avoid sharing your Wi-Fi password with others unless necessary.
+
+5. Regular Backups: Back up important data regularly to an external device or a secure cloud service. This helps protect against data loss from hardware failures or ransomware attacks.
+
+6. Use Antivirus and Anti-Malware Software: Install reputable antivirus and anti-malware software to protect your devices from malware and viruses. Keep these programs up to date.
+
+7. Practice Safe Web Browsing: Be cautious of suspicious websites and only download files or click on links from trusted sources. Use a modern web browser with built-in security features.
+
+8. Lock Your Devices: Set up screen locks or passwords on your devices, including smartphones, tablets, and computers, to prevent unauthorized access.
+
+9. Educate Yourself: Stay informed about common online threats and scams. Educate yourself and your family about safe online practices.
+
+Security Practices That Might Be Slightly More Advanced:
+
+1. Network Firewall Configuration: Adjusting firewall settings on your home router can provide an extra layer of security. This might require some technical knowledge.
+
+2. Regular Security Audits: Conducting periodic security audits of your devices and accounts can help identify vulnerabilities. While anyone can perform basic checks, in-depth audits may require more expertise.
+
+3. Use a Virtual Private Network (VPN): VPNs can enhance privacy and security when browsing the internet. Setting up and configuring a VPN may be slightly more advanced for some users.
+
+4. Secure Email Communication: Implementing encryption for email communication (PGP/GPG) can protect sensitive information but may require technical setup.
+
+5. Secure File Sharing: For those handling sensitive data, using encrypted file-sharing methods like end-to-end encrypted messaging apps or secure cloud storage can be valuable but may involve more complexity.
+
+6. Hard Drive Encryption: Encrypting your hard drive ensures data remains protected if your device is lost or stolen. This process can be more involved for average users.
+
+In conclusion, security hygiene is crucial for everyone's online safety. While many basic security practices can be followed by anyone, some practices may require a bit more technical knowledge or effort. It's essential to strike a balance between implementing robust security measures and ensuring they are practical and manageable for your individual or organizational needs.
+
+
+# Make-belief boogie-man - a treath model for imaginary company
+Threat Model for Imaginary Company: TechSecure Solutions Oy.
+
+Background:
+TechSecure Solutions Oy is an imaginary company specializing in providing cutting-edge cybersecurity solutions to various organizations. The company's primary business objective is to develop and offer innovative security software and services to protect client data and systems from cyber threats. As the company deals with sensitive information and operates in the cybersecurity sector, security is at the core of its operations.
+
+What Are We Working On?
+
+In this threat model, we will assess TechSecure Solutions Oy's assets, prioritize them, and understand how security supports the business.
+
+Assets:
+
+Customer Health Data: TechSecure Solutions Oy stores health data for healthcare clients. This is considered a crown jewel asset due to its sensitivity and regulatory requirements.
+
+Proprietary Source Code: The company's intellectual property includes proprietary source code for its cybersecurity solutions. Protecting this code is essential to maintaining a competitive edge.
+
+Client Contracts: The contracts and agreements with clients are crucial assets that must be safeguarded to maintain business trust.
+
+Employee Data: Employee information, including payroll and personal data, is sensitive and must be protected.
+
+Infrastructure: The company's server infrastructure and cloud resources are essential for service delivery and must be secured.
+
+Business and Security Alignment:
+
+The company's core business is to provide cybersecurity solutions to clients. Therefore, security directly supports its business objectives. Ensuring the confidentiality, integrity, and availability of client data and maintaining trust are paramount.
+
+What Can Go Wrong?
+
+We will use the STRIDE model to identify potential threats and analyze the risks associated with them.
+
+STRIDE Analysis:
+
+Spoofing: Unauthorized access to systems or data through identity theft. Example: A malicious actor impersonates an employee to gain access to sensitive data.
+
+Tampering: Unauthorized modification of data or systems. Example: A hacker alters client health records stored on the company's servers.
+
+Repudiation: The inability to verify the origin or authenticity of actions or data. Example: An employee disputes a transaction, and there is no way to prove or disprove their claim.
+
+Information Disclosure: Unauthorized access leading to the exposure of sensitive information. Example: A data breach exposes client health data, leading to regulatory fines.
+
+Denial of Service (DoS): Attackers disrupt services, causing system unavailability. Example: A DoS attack on the company's servers disrupts client services.
+
+Elevation of Privilege: Unauthorized users gain elevated access rights. Example: A hacker exploits a vulnerability to gain admin-level access to the system.
+
+Identified Risks:
+
+Risk 1: Data breach leading to customer health data exposure.
+Risk 2: Intellectual property theft of proprietary source code.
+Risk 3: Unauthorized access to employee payroll data.
+Risk 4: Service disruption due to DoS attacks.
+Risk Prioritization:
+
+Risk 1 is of high concern due to its potential legal and reputational consequences. Risk 2 is also critical as it can impact the company's competitive advantage. Risks 3 and 4 are significant but are prioritized lower.
+
+What Are We Going to Do About It?
+
+To mitigate the identified risks:
+
+Reduce Attack Surface: Implement strict access controls and authentication mechanisms to prevent unauthorized access.
+Limit Entry Points: Employ firewalls, intrusion detection systems, and secure coding practices to reduce the attack surface.
+Continuous Monitoring: Implement continuous threat monitoring to detect and respond to threats in real-time.
+Data Encryption: Encrypt sensitive data at rest and in transit.
+Regular Security Audits: Conduct regular security audits and penetration tests to identify vulnerabilities.
+
+Did We Do a Good Enough Job?
+
+To evaluate the effectiveness of security measures:
+Security Audits: Regular security audits will be conducted to assess the effectiveness of security controls.
+Penetration Testing: External penetration testing will be performed annually to identify weaknesses.
+Continuous Threat Modeling: Continuously update and refine the threat model to adapt to evolving threats.
+In conclusion, TechSecure Solutions Oyhas identified and prioritized potential threats and developed a plan to mitigate them effectively. By aligning security with business objectives and continuously evaluating the threat landscape, the company aims to maintain a high level of security and protect its critical assets.
+
+
