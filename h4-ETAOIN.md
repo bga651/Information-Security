@@ -97,10 +97,13 @@ Two-Factor Authentication (2FA) Codes: If you use 2FA with Dashlane, the one-tim
 
 
 
+# ETAOIN. When asked to come up with encryption scheme in the class, almost everyone described a variation of a simple substitution chipher. As requested, now it's time to attack your own scheme! Crack this ciphertext:
+
+I worte all my thoughts in the Word, here is the screen shot for this.
+<img width="889" alt="Screenshot 2023-09-15 at 23 15 44" src="https://github.com/bga651/Information-Security/assets/114089466/76280698-2456-4e33-b00f-75272f4494da">
 
 
-
-
+<img width="880" alt="Screenshot 2023-09-15 at 23 16 01" src="https://github.com/bga651/Information-Security/assets/114089466/581605ba-d0fd-4eff-92f7-f3045a6b0aa0">
 
 
 
