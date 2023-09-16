@@ -43,7 +43,22 @@ Overall, the article provides an overview of historical and modern encryption te
 
 # Find out frequency distribution of letters for a language that you know (other than English). What are the six most common letters? 
 
-Eh, English is the only alphabetic language I speak. Hence it's hard for me to find our frequent letters to use in other alphabetic language. But if I would guess in Finnish, first of all vowels is probably most common letters to use for example "a" "e" "i" "ä". And then "v" "n" "k"are other letters that seems quite often use in Finnish. But I don't speak Finnish so I have no confident in this at all.
+English is the only alphabetic language I speak. Hence it's hard for me to find our frequent letters to use in other alphabetic language. But I'm studying Finnish now so that if I would guess in Finnish, first of all vowels are probably most common letters to use for example "a" "e" "i". And then "n" "k" "t"are other letters that seems quite often use in Finnish. But I don't speak Finnish so I have no confident in this at all.
+
+Let's Google it what is the most frequent letters in Finnish :D
+
+<img width="475" alt="Screenshot 2023-09-16 at 20 47 16" src="https://github.com/bga651/Information-Security/assets/114089466/6912bfad-d995-4898-9dc5-ddc8d31d0edf">
+
+It shows:
+"A" 12.22
+"I" 10.82
+"N" 8.83
+"T" 8.75
+"E" 7.97
+"S" 7.86
+My guess was not too bad :D
+
+### Reference http://practicalcryptography.com/cryptanalysis/letter-frequencies-various-languages/finnish-letter-frequencies/
 
 # I choose DashLane as the example of password manager
 
@@ -105,6 +120,34 @@ I worte all my thoughts in the Word, here is the screen shot for this.
 
 <img width="880" alt="Screenshot 2023-09-15 at 23 16 01" src="https://github.com/bga651/Information-Security/assets/114089466/581605ba-d0fd-4eff-92f7-f3045a6b0aa0">
 
+# Encrypt and Decrypt a message
+As teach was demostred in the class, we used PGP and in the PGP, we were suggested GNU Privacy Guard (GnuPG or GPG) which is a free and open-source software application used for encrypting and decrypting messages and files. Here are the basic steps to encrypt and decrypt a message using GnuPG:
+
+Encrypting a Message:
+
+Install GnuPG: If you don't already have GnuPG installed on your system, you can download and install it from the official GnuPG website.
+
+Generate Your Key Pair: Before you can encrypt messages, you need a key pair: a public key for encryption and a private key for decryption. If you don't already have one, you can generate a key pair using the gpg --gen-key command. Follow the prompts to create your key pair.
+
+Obtain the Recipient's Public Key: To encrypt a message for someone else, you need their public key. You can import their public key into your keyring using the gpg --import command.
+
+Encrypt the Message: To encrypt your message, use the gpg --encrypt -r recipient@example.com command, where recipient@example.com is the email address associated with the recipient's public key. You can also use their key ID instead of the email address.
+
+Enter Your Message: GnuPG will prompt you to enter the message you want to encrypt. Type or paste your message and press Enter.
+
+Output and Save the Encrypted Message: GnuPG will generate the encrypted message and display it on the screen. You can redirect this output to a file using the > operator. 
+
+Decrypting a Message:
+
+Import Your Private Key: Make sure your private key is available in your keyring. You usually only need to do this once when you generate your key pair.
+
+Decrypt the Message: To decrypt an encrypted message, use the gpg --decrypt command followed by the path to the encrypted message file. 
+
+Enter Your Passphrase: GnuPG will prompt you to enter the passphrase associated with your private key. This passphrase is used to unlock your private key for decryption.
+
+View or Save the Decrypted Message: After entering the correct passphrase, GnuPG will display the decrypted message on the screen. You can also redirect the output to a file if you want to save it:
+
+Remember to keep your private key secure and never share it with anyone. Your private key is used to decrypt messages meant for you.
 
 
 
