@@ -51,10 +51,15 @@ Let's Google it what is the most frequent letters in Finnish :D
 
 It shows:
 "A" 12.22
+
 "I" 10.82
+
 "N" 8.83
+
 "T" 8.75
+
 "E" 7.97
+
 "S" 7.86
 My guess was not too bad :D
 
