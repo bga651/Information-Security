@@ -28,7 +28,26 @@ Additionally, the article introduces the concept of Message Authentication Codes
 
 In summary, one-way hash functions are essential in modern cryptography for their ability to generate unique fingerprints of data, and they play a crucial role in verifying data integrity and security in various applications, including financial transactions. Message Authentication Codes further enhance security by introducing a secret key into the hash computation process.
 
+### Reference https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec003
 
+# Summarise Nicolas Särökaari Presentation in 2018
 
+The speaker, Nicolas Särökaari, discusses the topic of email phishing in his presentation. He introduces himself as a security professional working at Silverskin, and his interest lies in breaking security measures, watching movies, and drinking coffee.
+
+He explains the concept of phishing, which involves sending emails that appear to come from legitimate sources with the aim of gaining unauthorized access to sensitive data, personal information, passwords, or an organization's internal network. Phishing emails may contain malicious links or attachments designed to deceive users.
+
+Nicolas delves into why people click on phishing links, citing a 2016 study that found curiosity to be a significant motivator. People are more likely to click on links out of curiosity, expectations, or if they think they know the sender.
+
+He discusses various protection mechanisms, such as SPF (Sender Policy Framework), DKIM (DomainKeys Identified Mail), and DMARC (Domain-based Message Authentication, Reporting, and Conformance), which organizations can implement to mitigate phishing threats.
+
+Nicolas also touches on ways to bypass these protection mechanisms, emphasizing the importance of securing infrastructure, regularly updating servers and workstations, and educating users about phishing risks.
+
+He presents several phishing scenarios, including emails about package deliveries, password leaks, and file sharing, illustrating how attackers can trick users into clicking links or submitting their credentials.
+
+Nicolas concludes by highlighting the challenges in getting users to report phishing attempts and advises skepticism when receiving emails from unknown sources or with suspicious content.
+
+Overall, Nicolas Särökaari's presentation provides insights into the world of email phishing, its effectiveness, and ways to protect against it.
+
+### Reference https://www.youtube.com/watch?v=m9YFJGSHYtY
 
 
