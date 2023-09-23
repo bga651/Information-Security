@@ -60,3 +60,50 @@ Followed by teached's instruction and hash solved as "february"
 <img width="800" alt="Screenshot 2023-09-23 at 14 15 51" src="https://github.com/bga651/Information-Security/assets/114089466/432dfafe-81b2-484e-82a0-9c7f2324476e">
 <img width="799" alt="Screenshot 2023-09-23 at 14 16 26" src="https://github.com/bga651/Information-Security/assets/114089466/e8ae2a19-66d6-463e-bd6f-afb1db9c94e6">
 
+### Reference https://terokarvinen.com/2022/cracking-passwords-with-hashcat/?fromSearch=hashcat
+
+# Gone Phishing
+
+## Example : Google Drive Phishing Emails
+
+## What kind of organization and person is the target?
+
+General Users:
+Employees from Companies
+Elderly or Vulnerable Populations
+
+Organizations: Phishing campaigns can also be directed at organizations, including:
+Large Corporations
+Small and Medium-sized Businesses
+Government Agencies
+
+## What is the goal of the mail?
+
+General Users: Attackers may send phishing emails to everyday users, attempting to steal personal information, login credentials, or financial details.
+
+Employees: Phishing campaigns often target employees within organizations, aiming to gain access to corporate networks, sensitive data, or business-related information.
+
+Organizations: Phishing campaigns can also be directed at organizations, including:
+Large Corporations: Hackers may target large corporations to steal sensitive business data, conduct corporate espionage, or compromise financial accounts.
+
+Small and Medium-sized Businesses: Smaller organizations may be targeted for various reasons, such as gaining access to financial information or using compromised email accounts to launch further attacks.
+
+Government Agencies: Phishing attacks against government agencies seek to compromise sensitive information, disrupt services, or gather intelligence.
+
+## What tactics are you using?
+In phishing emails, it's often ask for the following information: 
+Date of birth 
+Social security number 
+Phone number 
+Home address 
+Credit card details 
+Login details 
+Password (or other information needed to reset your password) 
+Then use this information to impersonate you and apply for credit cards or loans, open bank accounts, and commit other fraudulent acts. 
+
+In this case we use the attack by Clicking an attachment that prented to be from a familiar sender. 
+
+<img width="813" alt="Screenshot 2023-09-23 at 14 34 37" src="https://github.com/bga651/Information-Security/assets/114089466/cec6283b-e898-4ec5-97b8-bb654d54aa90">
+
+
+
