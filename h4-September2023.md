@@ -50,4 +50,13 @@ Overall, Nicolas Särökaari's presentation provides insights into the world of 
 
 ### Reference https://www.youtube.com/watch?v=m9YFJGSHYtY
 
+# Crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
+Followed by teached's instruction and hash solved as "february"
+<img width="792" alt="Screenshot 2023-09-23 at 13 52 37" src="https://github.com/bga651/Information-Security/assets/114089466/9790db7d-c8ed-4c94-a168-44f57eaf1e1e">
+<img width="791" alt="Screenshot 2023-09-23 at 13 52 50" src="https://github.com/bga651/Information-Security/assets/114089466/c30c2c56-d3a1-4927-a343-0423669d7dd4">
+<img width="830" alt="Screenshot 2023-09-23 at 14 01 22" src="https://github.com/bga651/Information-Security/assets/114089466/2e61dccb-f31d-4df1-a791-31a2c009b49e">
+<img width="821" alt="Screenshot 2023-09-23 at 14 09 21" src="https://github.com/bga651/Information-Security/assets/114089466/a6d53541-21b7-40e3-a217-539553544a25">
+<img width="810" alt="Screenshot 2023-09-23 at 14 12 58" src="https://github.com/bga651/Information-Security/assets/114089466/874b76d2-f223-4127-986f-565890794270">
+<img width="800" alt="Screenshot 2023-09-23 at 14 15 51" src="https://github.com/bga651/Information-Security/assets/114089466/432dfafe-81b2-484e-82a0-9c7f2324476e">
+<img width="799" alt="Screenshot 2023-09-23 at 14 16 26" src="https://github.com/bga651/Information-Security/assets/114089466/e8ae2a19-66d6-463e-bd6f-afb1db9c94e6">
 
