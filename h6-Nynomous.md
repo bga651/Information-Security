@@ -90,6 +90,12 @@ It emphasizes that while Tor provides strong anonymity, mistakes made by users a
 7. Here is my problem with M2 system chip in my laptop.
    <img width="652" alt="Screenshot 2023-09-30 at 20 39 55" src="https://github.com/bga651/Information-Security/assets/114089466/3fc177d9-bc70-482d-91ad-4888be218e1a">
 
-8. I have googled some solutions for this problem, seems others have similar issues. However non of them are working on my laptop, one suggestion was to install VM on MAC and using VM to browser the TOR which is exactly what am I doin here and it's not working. I will continuly find the solution and update this site.
+8. I also tried to install tor from termianl, which is not working either.
+   
+<img width="803" alt="Screenshot 2023-09-30 at 20 52 19" src="https://github.com/bga651/Information-Security/assets/114089466/b84698e1-8807-4e54-8008-14ec65fd9bf6">
+<img width="795" alt="Screenshot 2023-09-30 at 20 52 44" src="https://github.com/bga651/Information-Security/assets/114089466/939c4c06-a5d5-48d5-bff2-43584abb4a4a">
+
+
+10. I have googled some solutions for this problem, seems others have similar issues. However non of them are working on my laptop, one suggestion was to install VM on MAC and using VM to browser the TOR which is exactly what am I doin here and it's not working. I will continuly find the solution and update this site.
    <img width="1116" alt="Screenshot 2023-09-30 at 20 47 29" src="https://github.com/bga651/Information-Security/assets/114089466/0c6551ee-72ee-40ff-88d5-8e53cccc8e14">
 
