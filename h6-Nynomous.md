@@ -66,3 +66,30 @@ It emphasizes that while Tor provides strong anonymity, mistakes made by users a
 
 ### https://learning.oreilly.com/library/view/hiding-behind-the/9780128033524/
 
+
+# Install TOR on my UTM
+
+1. Open my UTM virtue machine.
+2. Go to the TRO home page, click Download TRO Broswer
+   <img width="1283" alt="Screenshot 2023-09-30 at 20 33 49" src="https://github.com/bga651/Information-Security/assets/114089466/c45e0dfc-149d-47d7-90ee-7035c5a95bca">
+
+<img width="1271" alt="Screenshot 2023-09-30 at 20 34 03" src="https://github.com/bga651/Information-Security/assets/114089466/0091e1c1-9d4a-4026-95e0-b3c0e9655edd">
+
+3. Download the file
+   <img width="496" alt="Screenshot 2023-09-30 at 20 35 44" src="https://github.com/bga651/Information-Security/assets/114089466/f8ea4347-03c0-4bff-b284-15be2b86e30e">
+
+4. Extract the Zip file
+   <img width="692" alt="Screenshot 2023-09-30 at 20 36 32" src="https://github.com/bga651/Information-Security/assets/114089466/5d18457a-6b8d-4b6f-8a2e-1ef8e28d32ee">
+
+5. Open the Tor Browser Folder and Launch the Tor Desktop
+   <img width="650" alt="Screenshot 2023-09-30 at 20 39 08" src="https://github.com/bga651/Information-Security/assets/114089466/b8cfbc09-30b2-4f33-a415-a8f093bae695">
+
+6. Click Launch Anyway
+   <img width="651" alt="Screenshot 2023-09-30 at 20 39 38" src="https://github.com/bga651/Information-Security/assets/114089466/fe935789-ca1c-40d1-9807-484fb133434d">
+
+7. Here is my problem with M2 system chip in my laptop.
+   <img width="652" alt="Screenshot 2023-09-30 at 20 39 55" src="https://github.com/bga651/Information-Security/assets/114089466/3fc177d9-bc70-482d-91ad-4888be218e1a">
+
+8. I have googled some solutions for this problem, seems others have similar issues. However non of them are working on my laptop, one suggestion was to install VM on MAC and using VM to browser the TOR which is exactly what am I doin here and it's not working. I will continuly find the solution and update this site.
+   <img width="1116" alt="Screenshot 2023-09-30 at 20 47 29" src="https://github.com/bga651/Information-Security/assets/114089466/0c6551ee-72ee-40ff-88d5-8e53cccc8e14">
+
